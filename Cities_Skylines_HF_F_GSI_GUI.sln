@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Cities_Skylines_HF_F_GSI_GUI", "Cities_Skylines_HF_F_GSI_GUI.vbproj", "{D0AB62A6-8B99-4FC2-B73E-1D7AA7C8B8F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0AB62A6-8B99-4FC2-B73E-1D7AA7C8B8F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0AB62A6-8B99-4FC2-B73E-1D7AA7C8B8F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0AB62A6-8B99-4FC2-B73E-1D7AA7C8B8F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0AB62A6-8B99-4FC2-B73E-1D7AA7C8B8F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F4B07B4-447C-4696-953A-E16DD8D495DA}
+	EndGlobalSection
+EndGlobal
